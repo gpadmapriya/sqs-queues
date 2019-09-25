@@ -11,4 +11,4 @@
 ### Running instructions
 - ./gradlew run while in the sqs sub package
 
-[!Sample log](https://github.com/gpadmapriya/sqs-queues/blob/master/src/main/java/sqs/queues/CloudWatchLog.png)
+[Sample log](https://github.com/gpadmapriya/sqs-queues/blob/master/src/main/java/sqs/queues/CloudWatchLog.png)
